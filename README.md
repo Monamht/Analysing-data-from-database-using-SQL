@@ -49,5 +49,7 @@ Combining Shipment Mode & Product Importance: Examines whether product importanc
 
 # How to Run
 1.Import dataset (Ecommerce_SQL_Database).
+
 2.Execute the SQL queries in MySQL/PostgreSQL/SQLite.
+
 3.Observe query outputs for insights.
